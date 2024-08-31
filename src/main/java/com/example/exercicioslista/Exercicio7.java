@@ -5,9 +5,7 @@ import java.util.Scanner;
 
 public class Exercicio7 {
     public static void resolucao() {
-        /* 7) Escreva um programa que receba quatro notas de um
-        aluno e calcule a média aritmética dessas notas.*/
-
+        
         Scanner sc = new Scanner (System.in);
         Locale.setDefault(Locale.US);
 
