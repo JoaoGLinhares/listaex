@@ -1,4 +1,4 @@
-package com.example.exercicioslista;
+package com.example.exercicioslista.listaprincipal.lista1;
 
 import java.util.Locale;
 import java.util.Scanner;
@@ -6,23 +6,23 @@ import java.util.Scanner;
 public class Exercicio7 {
     public static void resolucao() {
         
-        Scanner sc = new Scanner (System.in);
+        Scanner leia = new Scanner (System.in);
         Locale.setDefault(Locale.US);
 
         String nome;
         double n1, n2, n3, n4, media;
 
         System.out.println("Escreva o nome do estudante: ");
-        nome = sc.nextLine();
+        nome = leia.nextLine();
 
         System.out.println("Escreva a primeira nota: ");
-        n1 = sc.nextDouble();
+        n1 = leia.nextDouble();
         System.out.println("Escreva a segunda nota: ");
-        n2 = sc.nextDouble();
+        n2 = leia.nextDouble();
         System.out.println("Escreva a terceira nota: ");
-        n3 = sc.nextDouble();
+        n3 = leia.nextDouble();
         System.out.println("Escreva a quarta nota: ");
-        n4 = sc.nextDouble();
+        n4 = leia.nextDouble();
 
         media = (n1 + n2 + n3 + n4)/4;
 
@@ -30,7 +30,7 @@ public class Exercicio7 {
 
 
 
-        sc.close();
+        leia.close();
 
     }
 }

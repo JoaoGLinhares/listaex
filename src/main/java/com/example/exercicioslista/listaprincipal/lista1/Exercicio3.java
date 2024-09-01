@@ -1,4 +1,4 @@
-package com.example.exercicioslista;
+package com.example.exercicioslista.listaprincipal.lista1;
 
 import java.util.Locale;
 import java.util.Scanner;
@@ -15,6 +15,8 @@ public class Exercicio3 {
         valorEmReal = leia.nextDouble();
 
         System.out.printf("O valor em dólar é: $ %.2f",(dolar*valorEmReal));
+
+        leia.close();
     }
 
         }
