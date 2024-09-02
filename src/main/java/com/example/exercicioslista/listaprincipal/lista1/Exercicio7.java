@@ -1,13 +1,14 @@
 package com.example.exercicioslista.listaprincipal.lista1;
 
-import java.util.Locale;
 import java.util.Scanner;
 
-public class Exercicio7 {
-    public static void resolucao() {
+public class Exercicio7{
+
+    public static void resolucao(){
+
+        //Código de resolução: Exercicio7.resolucao();
         
         Scanner leia = new Scanner (System.in);
-        Locale.setDefault(Locale.US);
 
         String nome;
         double n1, n2, n3, n4, media;

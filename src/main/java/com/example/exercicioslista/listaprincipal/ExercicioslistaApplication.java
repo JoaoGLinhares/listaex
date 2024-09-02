@@ -3,6 +3,8 @@ package com.example.exercicioslista.listaprincipal;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
+import com.example.exercicioslista.listaprincipal.lista1.Exercicio7;
+
 //import com.example.exercicioslista.listaprincipal.lista1.Exercicio1;
 //import com.example.exercicioslista.listaprincipal.lista1.Exercicio2;
 //import com.example.exercicioslista.listaprincipal.lista1.Exercicio3;
@@ -11,6 +13,8 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 //import com.example.exercicioslista.listaprincipal.lista1.Exercicio6;
 //import com.example.exercicioslista.listaprincipal.lista1.Exercicio7;
 //import com.example.exercicioslista.listaprincipal.lista1.Exercicio8;
+
+
 //import com.example.exercicioslista.listaprincipal.lista2.Exercicio1L2;
 //import com.example.exercicioslista.listaprincipal.lista2.Exercicio2L2;
 //import com.example.exercicioslista.listaprincipal.lista2.Exercicio3L2;
@@ -28,7 +32,7 @@ public class ExercicioslistaApplication {
 		SpringApplication.run(ExercicioslistaApplication.class, args);
 
 
-		Exercicio6L2.resolucao2();
+		Exercicio.resolucao();
 	}
 
 }

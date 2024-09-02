@@ -2,8 +2,12 @@ package com.example.exercicioslista.listaprincipal.lista1;
 
 import java.util.Scanner;
 
-public class Exercicio4 {
+public class Exercicio4{
+    
     public static void resolucao(){
+
+        //Código de resolução: Exercicio4.resolucao();
+
         Scanner leia = new Scanner(System.in);
 
         int num1;

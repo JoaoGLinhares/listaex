@@ -2,8 +2,11 @@ package com.example.exercicioslista.listaprincipal.lista1;
 
 import java.util.Scanner;
 
-public class Exercicio5 {
-    public static void resolucao() {
+public class Exercicio5{
+
+    public static void resolucao(){
+
+        //Código de resolução: Exercicio5.resolucao();
        
         Scanner leia = new Scanner(System.in);
         double comprimento;
