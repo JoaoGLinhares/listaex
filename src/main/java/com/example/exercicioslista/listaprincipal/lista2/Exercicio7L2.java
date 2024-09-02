@@ -2,9 +2,11 @@ package com.example.exercicioslista.listaprincipal.lista2;
 
 import java.util.Scanner;
 
-public class Exercicio7L2 {
+public class Exercicio7L2{
 
     public static void resolucao2(){
+
+         //Código de resolução: Exercicio7L2.resolucao2();
 
         Scanner leia = new Scanner(System.in);
 
