@@ -29,9 +29,8 @@ public class ExercicioslistaApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(ExercicioslistaApplication.class, args);
-
-
-		Exercicio.resolucao();
+        
+		//cole o código de resolução aqui
 	}
 
 }
