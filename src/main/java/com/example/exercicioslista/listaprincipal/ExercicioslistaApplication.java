@@ -3,7 +3,6 @@ package com.example.exercicioslista.listaprincipal;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
-
 //import com.example.exercicioslista.listaprincipal.lista1.Exercicio1;
 //import com.example.exercicioslista.listaprincipal.lista1.Exercicio2;
 //import com.example.exercicioslista.listaprincipal.lista1.Exercicio3;
@@ -38,12 +37,10 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 @SpringBootApplication
 public class ExercicioslistaApplication {
 
-	public static void main(String[] args) {
+	public static void main(String[] args) throws InterruptedException {
 		SpringApplication.run(ExercicioslistaApplication.class, args);
         
 		//cole o código de resolução aqui
-
-		Exercicio3L3.resolucao3();
 
 	}
 
