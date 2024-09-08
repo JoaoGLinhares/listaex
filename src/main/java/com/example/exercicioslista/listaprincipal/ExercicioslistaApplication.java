@@ -3,6 +3,7 @@ package com.example.exercicioslista.listaprincipal;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
+
 //import com.example.exercicioslista.listaprincipal.lista1.Exercicio1;
 //import com.example.exercicioslista.listaprincipal.lista1.Exercicio2;
 //import com.example.exercicioslista.listaprincipal.lista1.Exercicio3;
@@ -11,7 +12,6 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 //import com.example.exercicioslista.listaprincipal.lista1.Exercicio6;
 //import com.example.exercicioslista.listaprincipal.lista1.Exercicio7;
 //import com.example.exercicioslista.listaprincipal.lista1.Exercicio8;
-
 
 //import com.example.exercicioslista.listaprincipal.lista2.Exercicio1L2;
 //import com.example.exercicioslista.listaprincipal.lista2.Exercicio2L2;
@@ -30,8 +30,14 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 //import com.example.exercicioslista.listaprincipal.lista3.Exercicio6L3;
 //import com.example.exercicioslista.listaprincipal.lista3.Exercicio7L3;
 
-
-
+//import com.example.exercicioslista.listaprincipal.lista4.Exercicio1L4;
+//import com.example.exercicioslista.listaprincipal.lista4.Exercicio2L4;
+//import com.example.exercicioslista.listaprincipal.lista4.Exercicio3L4;
+//import com.example.exercicioslista.listaprincipal.lista4.Exercicio4L4;
+//import com.example.exercicioslista.listaprincipal.lista4.Exercicio5L4;
+//import com.example.exercicioslista.listaprincipal.lista4.Exercicio6L4;
+//import com.example.exercicioslista.listaprincipal.lista4.Exercicio7L4;
+//import com.example.exercicioslista.listaprincipal.lista4.Exercicio8L4;
 
 
 @SpringBootApplication
